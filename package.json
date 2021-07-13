@@ -1,6 +1,9 @@
 {
   "name": "important-program",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "bin": {
+    "important-program": "bin/app.js"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
