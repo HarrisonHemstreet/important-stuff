@@ -1,6 +1,6 @@
 {
   "name": "important-program",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin": {
     "important-program": "bin/app.js"
   },
